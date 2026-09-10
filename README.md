@@ -1,5 +1,5 @@
-# Handbook Powerbank 7degrees Model UP1011 Thai/EN Language
-### วิธีใช้งาน powerbank `7 degrees UP1011`
+# Handbook Power Bank 7degrees Model UP1011 Thai/EN Language
+### วิธีใช้งาน Power Bank `7 degrees UP1011`
 #### วิธีการชาร์จอุปกรณ์ (มือถือหรือแท็บเล็ต)
 * นำสายชาร์จ USB เสียบเข้ากับช่องพอร์ตจ่ายไฟออก (USB Output) ของพาวเวอร์แบงค์
 * เสียบปลายสายอีกด้านเข้ากับสมาร์ทโฟนหรืออุปกรณ์ที่ต้องการชาร์จ
@@ -32,3 +32,12 @@
 * 🔋 **ไฟติดค้างนิ่งครบทั้ง 4 ดวง (ไม่กะพริบแล้ว):** แบตเตอรี่ `เต็ม 100%` พร้อมใช้งาน สามารถถอดสายออกได้เลยครับ
 
 ไฟ 1 ดวงที่กำลังกะพริบอยู่ หมายถึง พาวเวอร์แบงค์กำลังรับกระแสไฟเข้า และมีแบตเตอรี่สะสมอยู่ต่ำกว่า 25% เมื่อชาร์จไฟเข้าไปเรื่อย ๆ ไฟสถานะจะค่อย ๆ เพิ่มขึ้นตามระดับแบตเตอรี่ และ**เมื่อแบตเตอรี่เต็ม 100% ไฟทั้ง 4 ดวงจะติดนิ่ง (ไม่กะพริบ)** ซึ่งพาวเวอร์แบงค์ขนาด 10,000 mAh รุ่นนี้จะ**ใช้เวลาชาร์จจนเต็มประมาณ 5-6 ชั่วโมง**
+
+---
+
+### วิธีใช้งาน Power Bank `7 degrees UP1011`
+#### How to Charge Your Devices (Phones or Tablets)
+* Plug the USB cable into the USB Output port of the power bank.
+* Connect the other end of the cable to your smartphone or device.
+* Press the Power button on the side once (if it does not automatically turn on) to start delivering 5V/2A of power.
+* Once fully charged, you can unplug the cable immediately.
