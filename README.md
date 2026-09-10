@@ -35,7 +35,7 @@
 
 ---
 
-### วิธีใช้งาน Power Bank `7 degrees UP1011`
+### User Manual Power Bank `7 degrees UP1011`
 #### How to Charge Your Devices (Phones or Tablets)
 * Plug the USB cable into the USB Output port of the power bank.
 * Connect the other end of the cable to your smartphone or device.
