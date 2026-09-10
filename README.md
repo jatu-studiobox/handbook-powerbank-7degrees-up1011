@@ -1,5 +1,5 @@
-# Handbook Power Bank 7degrees Model UP1011 Thai/EN Language
-### วิธีใช้งาน Power Bank `7 degrees UP1011`
+# Handbook Power Bank 7 Degrees Model UP1011 Thai/EN Language
+### วิธีใช้งาน Power Bank `7 Degrees UP1011`
 
 <img width="400" height="462" alt="powerbank" src="https://github.com/user-attachments/assets/aa453737-8a8f-4b3d-b4fb-a15ea693e492" />
 
@@ -38,7 +38,7 @@
 
 ---
 
-### User Manual Power Bank `7 degrees UP1011`
+### User Manual Power Bank `7 Degrees UP1011`
 #### How to Charge Your Devices (Phones or Tablets)
 * Plug the USB cable into the USB Output port of the power bank.
 * Connect the other end of the cable to your smartphone or device.
